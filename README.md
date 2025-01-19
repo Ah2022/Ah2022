@@ -1,5 +1,5 @@
 <div align="center">
- <img height="200" src="LinkedIn Banner Main.png"  /> 
+ <img height="200" src="LinkedIn Cover 2.png"  /> 
 </div>
 
 ###
