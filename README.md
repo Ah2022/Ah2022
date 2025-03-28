@@ -8,7 +8,7 @@
 🚀 **Automation & Robotics Engineer | AI & Control Systems Specialist**  
 🔧 **Programming:** C++, Python, Embedded C, ROS, MATLAB  
 🖥️ **Platforms:** GitHub, Git, ROS, Siemens TIA Portal, Emerson DeltaV  
-⚡ **Interests:** Distributed Control Systems (DCS), Industrial Automation, Cybersecurity, AI in Robotics  
+⚡ **Interests:** Software Development, Industrial Automation, AI in Robotics  
 
 ---
 
@@ -27,9 +27,25 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 ### **📌 Technologies & Tools**
 - Git & GitHub (Version Control & Collaboration)
 - ROS (Robot Operating System)
-- Siemens TIA Portal & Emerson DeltaV (DCS & Automation)
 - SLAM (Simultaneous Localization and Mapping)
 - AI & Machine Learning for Industrial Applications
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ros/22314E" height="30" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
+
+###
 
 ### **⚙️ Technical Expertise**
 - Distributed Control Systems (DCS) & Process Automation
@@ -54,7 +70,10 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-hisham26&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2022&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+</div>
 
 ---
 
@@ -66,28 +85,6 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 ---
 
 **Let's build the future of automation together! 🚀**
-
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="30" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
-
-###
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2022&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<div align="center">
-</div>
 
 ###
 <picture>
