@@ -3,11 +3,71 @@
 </div>
 
 ###
+# 👋 Hello, I'm Ahmed Hisham
 
-<h2 align="left"># Ahmed Hisham<br>Mechatronics Engineer | Robotics Developer | Automation Specialist<br><br>🤖 Passionate about robotics engineering and autonomous systems development. Experience in ROS, SLAM algorithms, and embedded systems. Currently focusing on robot navigation and control systems.<br><br>## Tech Stack<br>- **Languages:** C/C++, Python, MATLAB<br>- **Robotics:** ROS, Navigation, SLAM, Motion Planning<br>- **Embedded:** Arduino, Raspberry Pi, ESP8266<br>- **Tools:** Git, Linux/Ubuntu, CMake<br><br>## Featured Projects<br>- 2D Mapping Robot with SLAM<br>- IoT-Enabled 5-DOF Robotic Arm<br>- Autonomous Navigation Systems<br><br>🔧 Always building, learning, and optimizing robotic solutions.</h2>
+🚀 **Automation & Robotics Engineer | AI & Control Systems Specialist**  
+🔧 **Programming:** C++, Python, Embedded C, ROS, MATLAB  
+🖥️ **Platforms:** GitHub, Git, ROS, Siemens TIA Portal, Emerson DeltaV  
+⚡ **Interests:** Distributed Control Systems (DCS), Industrial Automation, Cybersecurity, AI in Robotics  
+
+---
+
+## 🔹 About Me
+I am a **Mechatronics & Robotics Engineer** passionate about **automation, control systems, and AI-driven solutions**. With hands-on experience in **Distributed Control Systems (DCS), PLC programming, industrial automation, and robotics**, I specialize in developing high-performance software for complex industrial applications. 
+
+I have worked on **automation projects, robotics algorithms, and AI-driven process optimizations**. My expertise extends to **ROS-based robotics, cybersecurity for industrial control systems, and IEC safety standards (IEC 62443, IEC 61511)**.
+
+---
+
+## 💻 Tech Stack & Skills
+
+### **🛠 Programming Languages**
+- C++ | Python | Embedded C | MATLAB | PLC Programming
+
+### **📌 Technologies & Tools**
+- Git & GitHub (Version Control & Collaboration)
+- ROS (Robot Operating System)
+- Siemens TIA Portal & Emerson DeltaV (DCS & Automation)
+- SLAM (Simultaneous Localization and Mapping)
+- AI & Machine Learning for Industrial Applications
+
+### **⚙️ Technical Expertise**
+- Distributed Control Systems (DCS) & Process Automation
+- Robotics & Industrial IoT
+- Cybersecurity for Industrial Control Systems (IEC 62443)
+- Process Safety & Risk Management (IEC 61511)
+
+---
+
+## 📂 GitHub Projects
+
+### 🔹 **2D Mapping and Localization Robot**
+- Developed an autonomous robot using **ROS & SLAM algorithms**
+- Implemented real-time obstacle detection & mapping
+
+### 🔹 **Industrial IoT Robot Arm**
+- Designed and built a robotic arm with **remote IoT control**
+- Integrated **PLC-based safety mechanisms**
+
+*(More projects coming soon!)*
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-hisham26&show_icons=true&theme=radical)
+
+---
+
+## 🌍 Connect With Me
+📧 **Email:** ahmed.hisham2000.ah@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/ahmed-hisham26](https://linkedin.com/in/ahmed-hisham26)  
+💼 **Portfolio:** Coming Soon!
+
+---
+
+**Let's build the future of automation together! 🚀**
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
