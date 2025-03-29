@@ -23,13 +23,6 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 
 ### **🛠 Programming Languages**
 - C++ | Python | Embedded C | MATLAB | PLC Programming
-
-### **📌 Technologies & Tools**
-- Git & GitHub (Version Control & Collaboration)
-- ROS (Robot Operating System)
-- SLAM (Simultaneous Localization and Mapping)
-- AI & Machine Learning for Industrial Applications
-
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -46,6 +39,11 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 </div>
 
 ###
+### **📌 Technologies & Tools**
+- Git & GitHub (Version Control & Collaboration)
+- ROS (Robot Operating System)
+- SLAM (Simultaneous Localization and Mapping)
+- AI & Machine Learning for Industrial Applications
 
 ### **⚙️ Technical Expertise**
 - Distributed Control Systems (DCS) & Process Automation
