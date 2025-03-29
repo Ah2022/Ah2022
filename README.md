@@ -22,9 +22,9 @@ I have worked on **automation projects, robotics algorithms, and AI-driven proce
 ## 💻 Tech Stack & Skills
 
 ### **🛠 Programming Languages**
-- C++ | Python | Embedded C | MATLAB | PLC Programming
+-  Python | C++ | Embedded C | Git | MATLAB | PLC Programming
 ###
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
