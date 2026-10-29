@@ -4,7 +4,7 @@
   <img src="assets/header-dark.svg" alt="Ahmed Hisham — BIM Developer Engineer. C#, Python and Revit API for engineering automation." width="1200">
 </picture>
 
-# Engineering buildings. Developing the tools behind them.
+# BIM engineering, expressed in code.
 
 I'm **Ahmed Hisham**, a **BIM Developer Engineer** working across MEP modelling, multidisciplinary coordination and software development. I build **Revit add-ins, geometry tools and Python engineering workflows** that connect model data to practical review and delivery.
 
@@ -14,14 +14,14 @@ I'm **Ahmed Hisham**, a **BIM Developer Engineer** working across MEP modelling,
 
 ## Skills in practice
 
-| Technology | What I build with it | Explore the implementation |
-| :--- | :--- | :--- |
-| **C# · .NET · Revit API · WPF** | Revit add-ins, modeless dashboards and geometry inspection | [ClashResolveAI](https://github.com/Ah2022/ClashResolveAI/tree/main/src) |
-| **Python · pyRevit** | Revit bridges, model data workflows and engineering calculations | [BIM Engine bridge](https://github.com/Ah2022/BIM-Engine/tree/main/BIMEngine.extension/lib/bimengine_core) |
-| **Spatial algorithms** | Octree indexing, bounding-box candidate searches and solid intersection checks | [Spatial engine](https://github.com/Ah2022/BIM-Engine/tree/main/BIMEngine.Core/Spatial) |
-| **SQLite · SQL** | Project-scoped issue records, scan history and review decisions | [Persistence layer](https://github.com/Ah2022/BIM-Engine/blob/main/BIMEngine.extension/lib/bimengine_core/database.py) |
-| **BIM data exchange** | IFC/Revit mapping, connector diagnostics and coordination exports | [BIM mapping](https://github.com/Ah2022/Plumbing-AI-Engineer/blob/main/bim/mapping.py) |
-| **TypeScript · React** | Interactive engineering explanations and a coordination sandbox | [Portfolio source](https://github.com/Ah2022/ahmed-hisham-portfolio) |
+| Technology | What I build with it |
+| :--- | :--- |
+| **C# · .NET**<br>Revit API · WPF | Revit add-ins, dashboards and geometry inspection. [Explore code →](https://github.com/Ah2022/ClashResolveAI/tree/main/src) |
+| **Python · pyRevit** | Revit bridges and engineering calculations. [Explore code →](https://github.com/Ah2022/BIM-Engine/tree/main/BIMEngine.extension/lib/bimengine_core) |
+| **Spatial algorithms** | Octree indexing, candidate searches and solid checks. [Explore code →](https://github.com/Ah2022/BIM-Engine/tree/main/BIMEngine.Core/Spatial) |
+| **SQLite · SQL** | Project-scoped issues, scan history and review records. [Explore code →](https://github.com/Ah2022/BIM-Engine/blob/main/BIMEngine.extension/lib/bimengine_core/database.py) |
+| **BIM data exchange** | IFC/Revit mapping and connector diagnostics. [Explore code →](https://github.com/Ah2022/Plumbing-AI-Engineer/blob/main/bim/mapping.py) |
+| **TypeScript · React** | Interactive explanations and a coordination sandbox. [Explore code →](https://github.com/Ah2022/ahmed-hisham-portfolio) |
 
 ## Featured BIM tools
 

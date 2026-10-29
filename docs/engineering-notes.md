@@ -13,7 +13,6 @@ Excerpt from [`CandidatePairFinder.FindCandidates`](https://github.com/Ah2022/BI
 ```csharp
 AABB queryRegion = source.Bounds.Expand(queryPaddingFeet);
 List<SpatialEntry> nearby = targetIndex.Query(queryRegion);
-
 ```
 
 The linked method then resolves nearby entries, skips self-pairs and collects candidates. A nearby bounding box is a candidate, not evidence of a hard clash.
