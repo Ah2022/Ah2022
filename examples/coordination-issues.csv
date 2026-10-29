@@ -1,0 +1,7 @@
+Issue ID,Level,Element A,Element B,Status,Review note
+DEMO-001,L03,Pipe,Duct,Open,Review routing at service crossing
+DEMO-002,L03,Duct,Beam,Reviewed,Inspect vertical separation
+DEMO-003,L04,Cable tray,Pipe,Open,Review support and routing
+DEMO-004,L04,Pipe,Beam,Resolved,Illustrative revised route recorded
+DEMO-005,L05,Duct,Cable tray,Reviewed,Coordination decision pending
+DEMO-006,L05,Pipe,Pipe,Open,Review crossing and service intent
